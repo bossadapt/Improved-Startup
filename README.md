@@ -1,5 +1,3 @@
 # Improved-Startup
-Instead of having a static startup add modes/presets to choose from
 
-Turned into exe with pyinstaller and gui with PYQT5
-making a shortcut of the exe to drop into startup will be neccicary for automatic startup
+This program opens many applications at once after making a preset to do so. This allows you to have dynamic startup apps without the trouble of constantly editing your startup folder.
